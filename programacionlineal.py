@@ -8,5 +8,5 @@ prob += x + y <= 2
 prob += -4*x + y
 prob
 status = prob.solve()
-print(value(x), value(y))
-print(value(prob.objective))
+YHIOGJDFXGK,BLÑKLV,
+SDHSUJGV
