@@ -5,6 +5,8 @@
 
 ## PÁGINA DE PROGRAMACIÓN LINEAL
 
+![Región_factible](132221.png)
+
 En esta página vamos a mostrar los trabajos realizados durante el curso de Programación líneal.
 
 ### SYMPY
