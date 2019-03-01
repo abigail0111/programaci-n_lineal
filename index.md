@@ -23,6 +23,6 @@ Aprendimos a utilizar la biblioteca Sympy
 ### Problemas
 
 
-Máximizar \(z=x_1 + x_2\)
+Máximizar $$z=x_1 + x_2$$
 
-Sujeto a: \(x_1\geq 0\)
+Sujeto a: $$x_1\geq 0$$
