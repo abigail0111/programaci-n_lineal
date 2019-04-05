@@ -1,0 +1,63 @@
+#+title: programacion lineal
+#+author: Mendoza Mendoza Ermin Abigail
+
+#+options: H:2 
+
+* Teoría
+** Motivación
+
+El objetivo de la progración lineal es maximizar funciones lineales
+sobre dominios convexos, es decir, definidos sobre regiones dadas
+desiguales
+
+[[file:imagen.png]]
+
+** Ejemplos
+
+- El problema de la dieta.
+- Optimización de lugares en una excursión.
+- Escoger objetos optimos para un campamento.
+- El problema del flujo máximo.
+
+
+** Convexidad.
+
+Un conjunto \(X\) es *convexo* si para todos \(x,y\in X\) y \(t\in [0,1]\) se tiene que  \(tx+(1-t)y\in X\).
+
+
+
+
+
+** Método símplex
+** Método grafico
+
+
+* Herramientas computacionales
+
+** Emacs
+   
+| C-x C-s      | salvar archivo         |
+| C-x C-f      | abrir archivo          |
+| M-q          | Formatear párrafo      |
+| C-x d        | Editar directorios     |
+| C-g          | Interrumpe             |
+| C-x1         | Cierra una ventana     |
+| C-x2         | Divide horizontalmente |
+| C-x3         | Divide veticalemte     |
+| C-e          | borrar                 |
+| M-w          | Copiar                 |
+| Shift-fechas | Seleccionar region     |
+| C-y          | Pegar la región        |
+|              |                        |
+|              |                        |
+
+** Git
+*** Github
+*** Git en la terminal
+
+** Python
+*** Jupyter
+*** Lenguaje  Python
+
+** LaTex
+   
