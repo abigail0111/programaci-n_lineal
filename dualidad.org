@@ -39,8 +39,11 @@ Consideremos el siguiente problema:
 
 
 
-* Teoremas
+* Teoremas:
+  
 
+  Luego demostraremos que le minimo del problema dual, es el maximo
+  del primitivo.
 
 
 
