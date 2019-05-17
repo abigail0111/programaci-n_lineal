@@ -1,0 +1,19 @@
+#+title: Dialidad en programacion lineal
+#+author: Ermin Abigail Mendoza Mendoza
+#+date: 17 de mayo
+
+* Introduccion
+
+  La dualidad es una forma de asociar un cierto problema de programacion
+  linela a cada problema de programacion lineal.
+
+* Ejemplos
+
+* Teoremas
+
+
+
+
+
+
+
