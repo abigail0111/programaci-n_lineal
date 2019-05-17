@@ -4,8 +4,10 @@
 
 * Introduccion
 
-  La dualidad es una forma de asociar un cierto problema de programacion
-  linela a cada problema de programacion lineal.
+  La dualidad es una forma de asociar un cierto problema de
+  programacion linela a cada problema de programacion lineal.  El
+  objetivo de la dualidad es encontra una cota a nestra fuencion
+  objetivo, de tal forma que esta sea la minima.
 
 * Ejemplos
 
@@ -24,6 +26,17 @@ Consideremos el siguiente problema:
      \end{aligned}
    \end{aligned}
    \end{equation*}
+
+   - Podemos observar que bajo las restricciones la funcion objetivo es
+  menor que 12 ya que:
+
+\begin{equation}
+2x_{1}+3x_{2}\leq 4x_{1}+8x_{2}\leq 12.
+\end{equation}
+
+
+
+
 
 
 * Teoremas
